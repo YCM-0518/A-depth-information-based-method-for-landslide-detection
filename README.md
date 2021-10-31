@@ -2,8 +2,8 @@
 A-depth-information-based-method-for-landslide-detection
 # Project Structure
 The descriptions of principal files in this project are introduced as follows:
- ● ./1.py : Coordinate transformation of point clouds
- ● ./2.py : Threshold filtering for background point clouds removal
+  ./1.py : Coordinate transformation of point clouds
+  ./2.py : Threshold filtering for background point clouds removal
  ● ./3.py : Outliers removal
  ● ./4.py : Code for extracting non-overlapping areas
  ● ./5.py : Code for non-overlapping area oversegmentation
