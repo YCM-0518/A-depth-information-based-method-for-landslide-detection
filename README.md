@@ -31,4 +31,6 @@ The descriptions of principal files in this project are introduced as follows:
  
  ● copy
 # Remark
-In the research process, the point cloud visualization software used is "CloudCompare"
+ ● The code running software is Python3.6, PyCharm
+
+ ● In the research process, the point cloud visualization software used is "CloudCompare"
